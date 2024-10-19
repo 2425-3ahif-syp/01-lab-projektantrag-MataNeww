@@ -8,7 +8,7 @@ Viele Schüler und Studenten haben Schwierigkeiten, ihre Lernzeit und Aufgaben e
 Der Sinn und Zweck des Projekts „EduLife Calendar“ besteht darin, Nutzern zu helfen, ihre Zeitmanagementfähigkeiten und die Organisation ihrer Aufgaben zu verbessern. Die App ermöglicht den Anwendern, ihre Lernzeiten effektiv zu strukturieren und ihre Aufgaben sowie Termine einfach zu verwalten. Ein zentrales Ziel ist die Integration von Zeitmanagement-Methoden wie der Pomodoro-Technik, um das Lernen zu optimieren. Mithilfe von Timern,
 einem Kalender und To-Dos unterstützt die App den Benutzer dabei, ihre Zeit und ihren Alltag besser zu organisieren und langfristig ihre schulischen Leistungen zu steigern.
 
-== Kunde/Beteiligte
+== Zielgruppe
 Die Zielgruppe des Projekts sind Schüler:innen und Student:innen.
 
 == Endergebnis
