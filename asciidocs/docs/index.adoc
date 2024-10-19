@@ -1,4 +1,18 @@
-= Index page
-ifndef::imagesdir[:imagesdir: images]
+= Projektantrag EduLife Calendar - Kalender für Schüler und Studenten
+:date: 19.10.2024
 
-image::img.png[]
+== Projekthintergrund
+Viele Schüler und Studenten haben Schwierigkeiten, ihre Lernzeit und Aufgaben effizient zu organisieren. Besonders Zeitmanagement-Strategien wie die Pomodoro-Methode werden oft nicht optimal genutzt. Das Projekt „EduLife Calendar“ soll dabei helfen, Zeiteinteilungstechniken während dem Lernen effizient zu integrieren, indem es als Kalender und Lernhilfe dient und somit die Anwendung effektiver Zeitmanagement-Strategien unterstützt.
+
+== Sinn/Zweck
+Der Sinn und Zweck des Projekts „EduLife Calendar“ besteht darin, Nutzern zu helfen, ihre Zeitmanagementfähigkeiten und die Organisation ihrer Aufgaben zu verbessern. Die App ermöglicht den Anwendern, ihre Lernzeiten effektiv zu strukturieren und ihre Aufgaben sowie Termine einfach zu verwalten. Ein zentrales Ziel ist die Integration von Zeitmanagement-Methoden wie der Pomodoro-Technik, um das Lernen zu optimieren. Mithilfe von Timern,
+einem Kalender und To-Dos unterstützt die App den Benutzer dabei, ihre Zeit und ihren Alltag besser zu organisieren und langfristig ihre schulischen Leistungen zu steigern.
+
+== Kunde/Beteiligte
+Die Zielgruppe des Projekts sind Schüler:innen und Student:innen.
+
+== Endergebnis
+Das Endergebnis von „EduLife Calendar“ soll sein, dass das Lernen der Nutzer durch den Einsatz von Zeitmanagement-Strategien verbessert wird. Die Schüler und Studenten sollen dadurch bessere Noten erreichen und gleichzeitig keine Probleme mehr haben, ihren Alltag im Kalender zu organisieren und zu verwalten.
+
+== Konsequenzen bei Nichtdurchführung
+Schüler und Studenten, die Probleme mit ihrem Zeitmanagement haben, könnten schlechtere Noten erhalten. EduLife Calendar soll helfen, diese Schwierigkeiten zu lösen und das Lernen besser zu strukturieren.
